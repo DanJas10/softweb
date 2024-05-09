@@ -31,7 +31,6 @@ Publish the website in the given URL.
 
 
 
-
 ## OUTPUT:
 ![Screenshot 2024-05-09 213934](https://github.com/DanJas10/softweb/assets/150931233/723e7670-0682-42ef-852c-189faab61caf)
 ![Screenshot 2024-05-09 213038](https://github.com/DanJas10/softweb/assets/150931233/3013b8d5-62b1-4440-8c60-aedd2b912117)
