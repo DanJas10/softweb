@@ -32,7 +32,15 @@ Publish the website in the given URL.
 ```
 
 
+
 ## OUTPUT:
+![Screenshot 2024-05-09 213934](https://github.com/DanJas10/softweb/assets/150931233/723e7670-0682-42ef-852c-189faab61caf)
+![Screenshot 2024-05-09 213038](https://github.com/DanJas10/softweb/assets/150931233/3013b8d5-62b1-4440-8c60-aedd2b912117)
+![Screenshot 2024-05-09 214027](https://github.com/DanJas10/softweb/assets/150931233/3f3e59b4-4db1-466c-af71-eff377575534)
+![Screenshot 2024-05-09 214107](https://github.com/DanJas10/softweb/assets/150931233/70ea7087-69b8-42e3-809d-42b2d993004c)
+
+
+
 
 
 ## RESULT:
