@@ -28,8 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-//home.html
-```
+
 
 
 
